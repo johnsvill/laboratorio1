@@ -7,16 +7,16 @@ namespace Laboratorio1
         private string title;
         private DateTime editionDate;
         private string editorial;
-        private List<Book> autors = new List<Book>();
+        /* private List<Book> authors = new List<Book>();*/
+        public string[] authors;
         
-
         public string Title
         {
             get{ return title; }
             set{ title = value; }
         }
 
-        public string EditionDate
+        public DateTime EditionDate
         {
             get{ return editionDate; }
             set{ editionDate = value; }
@@ -29,10 +29,23 @@ namespace Laboratorio1
             set{ editorial = value; }
         }
 
-        public string Autors
+        public string[] Authors
         {
-            get{ return autors; }
-            set{ autors = value; }
+            get{ return authors; }
+            set{ authors = value; }
+        }
+        public Publication()
+        {
+
+        }       
+        public Publication(string title, DateTime editionDate, string editorial)
+        {
+           /* Title = title;
+            EditionDate = editionDate;
+            Editorial = editorial; */
+            this.Title = title;
+            this.EditionDate = editionDate;
+            this.Editorial = editorial;
         }
     }
 }

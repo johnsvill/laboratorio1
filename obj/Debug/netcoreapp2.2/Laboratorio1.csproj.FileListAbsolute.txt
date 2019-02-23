@@ -1,0 +1,4 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Laboratorio1\obj\Debug\netcoreapp2.2\Laboratorio1.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Laboratorio1\obj\Debug\netcoreapp2.2\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Laboratorio1\obj\Debug\netcoreapp2.2\Laboratorio1.AssemblyInfoInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Laboratorio1\obj\Debug\netcoreapp2.2\Laboratorio1.AssemblyInfo.cs
